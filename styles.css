@@ -11,19 +11,14 @@ header {
     align-items: center;
     padding: 20px;
     flex-wrap: wrap;
-    
 }
 
-
-#spanlogo{
-
+#spanlogo {
     margin-bottom: -65px;
     color: #40c4aa;
     font-size: 20px;
-    margin-left: -33px
-
+    margin-left: -33px;
 }
-
 
 .logo {
     display: flex;
@@ -37,7 +32,6 @@ header {
     height: auto;
     margin-right: -25px;
     margin-bottom: 45px;
-    
 }
 
 nav ul {
@@ -57,7 +51,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #B3B3B3;
-        font-weight: bold;
+    font-weight: bold;
 }
 
 nav ul li a:hover {
@@ -68,7 +62,6 @@ nav ul li a:hover {
     margin-top: -399px;
     margin-left: 72px;
 }
-
 
 .welcome-section h2 {
     color: #40c4aa;
@@ -172,78 +165,69 @@ nav ul li a:hover {
     }
 }
 
-
-.sectionsecondembded h1{
+.sectionsecondembded h1 {
     font-size: 23px;
-
 }
-.sectionsecondembded p{
+
+.sectionsecondembded p {
     color: #B3B3B3;
     margin-left: 2px;
 }
 
-.sectionsecondembded div{
-
+.sectionsecondembded div {
     margin-left: 22px;
 }
 
-.swiper-wrapper img{
-
-
+.swiper-wrapper img {
     width: 800px;
     margin-top: 133px;
-
-
 }
 
-.swiper-wrapper h1{
-
+.swiper-wrapper h1 {
     text-align: left;
     margin-left: 26px;
     margin-top: 51px;
     margin-bottom: -132px;
 }
 
-.swiper-button-next, .swiper-rtl .swiper-button-prev,.swiper-button-prev, .swiper-rtl .swiper-button-next{
-
+.swiper-button-next, 
+.swiper-rtl .swiper-button-prev, 
+.swiper-button-prev, 
+.swiper-rtl .swiper-button-next {
     color: black;
 }
 
-.swiper-pagination-bullet{
-   background-color: #40c4aa;
+.swiper-pagination-bullet {
+    background-color: #40c4aa;
 }
 
-
-.swiper-slide swiper-slide-active{
-
-
+.swiper-slide swiper-slide-active {
     margin-top: 144px;
 }
-
-
 
 .container {
     display: flex;
     gap: 20px;
+    text-align: center;
 }
+
 .card {
-    border: 1px solid #e0e0e0;
+    border: 3px solid #4a9b7c;
     border-radius: 17px;
     padding: 20px;
     background-color: #fff;
-    width: 300px;
-    text-align: center;
-    border-color: #4a9b7c;
-    border-width: 3px;
     width: 296px;
-  height: 363px
+    height: 363px;
+    text-align: center;
 }
+
 .card-title {
     margin: 20px 0;
     font-size: 1.5em;
     font-weight: bold;
     margin-top: 29px;
 }
+
 .link-button {
     display: inline-block;
     margin: 10px;
@@ -256,98 +240,92 @@ nav ul li a:hover {
     font-size: 1em;
     cursor: pointer;
 }
+
 .link-button:hover {
     background-color: #4a9b7c;
 }
 
-
-
-
-
-
-.container {
-    text-align: center;
-}
 .team-title {
     font-size: 2em;
     margin-bottom: 20px;
 }
+
 .team {
     display: flex;
     justify-content: center;
     margin-left: 543px;
 }
+
 .column {
     margin: 0 20px;
 }
+
 .team-member {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
 }
+
 .team-member img {
     border-radius: 50%;
-  
-    margin-right: -16px;
-
     width: 154px;
-  height: 100px;
-  margin-left: -36px;
+    height: 100px;
+    margin-left: -36px;
+    margin-right: -16px;
 }
+
 .team-member-info {
     text-align: left;
 }
+
 .team-member-info .name {
     font-weight: bold;
 }
+
 .team-member-info .role {
     font-size: 0.9em;
     color: gray;
 }
 
-
-
-
-
-
-
-
-
-
-
 .part {
     display: flex;
     justify-content: space-between;
-            width: 100%;  
+    width: 100%;
 }
+
 .left, .right {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 .left img {
     width: 100px;
     height: auto;
 }
+
 .store-buttons img {
     width: 150px;
     height: auto;
-
 }
+
 .right .social-icons a {
     margin: 5px;
 }
+
 .right .subscribe {
     display: flex;
     margin-top: 74px;
 }
+
 .right .subscribe input[type="email"] {
     padding: 16px;
-  border: 1px solid #ccc;
-  border-radius: 32px;
-  margin-right: 10px;
-  width: 211px;
+    border: 1px solid #ccc;
+    border-radius: 32px;
+    margin-right: 10px;
+    width: 211px;
 }
+
 .right .subscribe button {
     padding: 10px 20px;
     border: none;
@@ -358,11 +336,18 @@ nav ul li a:hover {
     width: 100px;
 }
 
-
-.social-icons img{
-
+.social-icons img {
     width: 34px;
 }
+
+
+
+
+
+
+
+
+
 
 
 
