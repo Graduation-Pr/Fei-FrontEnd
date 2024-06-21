@@ -219,3 +219,153 @@ nav ul li a:hover {
 
     margin-top: 144px;
 }
+
+
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+.card {
+    border: 1px solid #e0e0e0;
+    border-radius: 17px;
+    padding: 20px;
+    background-color: #fff;
+    width: 300px;
+    text-align: center;
+    border-color: #4a9b7c;
+    border-width: 3px;
+    width: 296px;
+  height: 363px
+}
+.card-title {
+    margin: 20px 0;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 29px;
+}
+.link-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 13px;
+    background-color: #4DB297;
+    color: #101010;
+    text-decoration: none;
+    font-size: 1em;
+    cursor: pointer;
+}
+.link-button:hover {
+    background-color: #4a9b7c;
+}
+
+
+
+
+
+
+.container {
+    text-align: center;
+}
+.team-title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+.team {
+    display: flex;
+    justify-content: center;
+    margin-left: 543px;
+}
+.column {
+    margin: 0 20px;
+}
+.team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.team-member img {
+    border-radius: 50%;
+  
+    margin-right: -16px;
+
+    width: 154px;
+  height: 100px;
+  margin-left: -36px;
+}
+.team-member-info {
+    text-align: left;
+}
+.team-member-info .name {
+    font-weight: bold;
+}
+.team-member-info .role {
+    font-size: 0.9em;
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+.part {
+    display: flex;
+    justify-content: space-between;
+            width: 100%;  
+}
+.left, .right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.left img {
+    width: 100px;
+    height: auto;
+}
+.store-buttons img {
+    width: 150px;
+    height: auto;
+
+}
+.right .social-icons a {
+    margin: 5px;
+}
+.right .subscribe {
+    display: flex;
+    margin-top: 74px;
+}
+.right .subscribe input[type="email"] {
+    padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 32px;
+  margin-right: 10px;
+  width: 211px;
+}
+.right .subscribe button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 32px;
+    background-color: #554DD1;
+    color: white;
+    cursor: pointer;
+    width: 100px;
+}
+
+
+.social-icons img{
+
+    width: 34px;
+}
+
+
+
+
+
+
